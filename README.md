@@ -3,4 +3,4 @@ Realização de tratamento de dados do CENIPA (Centro de Investigação e Preven
 
 ## Desenvolvimento do Projeto ETL - Extração e Validação
 
-* [Realização de Extração de Dados - Parte 1](https://github.com/jeffhsta/fundamentos_arquitetura/tree/master/exercicio1)
+* [Realização de Extração de Dados - Parte 1](https://github.com/Edivaldo16/projeto_etl/blob/main/Projeto_ETL.ipynb)
