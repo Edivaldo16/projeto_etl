@@ -1,2 +1,6 @@
-# projeto_etl
-Realização de tratamento de dados do CENIPA (Centro de Investigação e Prevenção de Acidentes Aeronáuticos) para fins didáticos.
+# Fundamentos de ETL com Python e Pandas
+Realização de tratamento de dados do CENIPA (Centro de Investigação e Prevenção de Acidentes Aeronáuticos) através da biblioteca pandas para fins didáticos.
+
+## Desenvolvimento do Projeto ETL - Extração e Validação
+
+* [Realização de Extração de Dados - Parte 1](https://github.com/jeffhsta/fundamentos_arquitetura/tree/master/exercicio1)
