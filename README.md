@@ -29,5 +29,5 @@ Realização de tratamento de dados do CENIPA (Centro de Investigação e Preven
 ## Créditos
 
 * Ao professor Fernando Tiosso que conduziu o curso `Fundamentos de ETL com Python` de forma incrível. 
-* Esse arquivo README não seria possível se eu não tivesse usado o github do jefhista. Segue link: 
+* Esse arquivo README não seria possível se eu não fosse pelo github do jefhista. Segue link: 
 [https://github.com/jeffhsta/fundamentos_arquitetura](https://github.com/jeffhsta/fundamentos_arquitetura).
