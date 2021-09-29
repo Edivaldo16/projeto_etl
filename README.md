@@ -22,5 +22,5 @@ Realização de tratamento de dados do CENIPA (Centro de Investigação e Preven
 
 ### Limpeza dos Dados
 
-* [Limpeza de Dados - Parte 1](https://github.com/Edivaldo16/projeto_etl/blob/main/Desenvolvimento/Limpeza/Limpeza_1.ipynb)
+* [Limpeza dos Dados - Parte 1](https://github.com/Edivaldo16/projeto_etl/blob/main/Desenvolvimento/Limpeza/Limpeza_1.ipynb)
 
