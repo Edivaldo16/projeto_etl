@@ -13,3 +13,4 @@ Realização de tratamento de dados do CENIPA (Centro de Investigação e Preven
 * [Validando a Extração de Dados - Parte 1](https://github.com/Edivaldo16/projeto_etl/blob/main/Desenvolvimento/Validação/Validacao_1.ipynb)
 * [Validando a Extração de Dados - Parte 2](https://github.com/Edivaldo16/projeto_etl/blob/main/Desenvolvimento/Validação/Validacao_2.ipynb)
 * [Validando a Extração de Dados - Parte 3](https://github.com/Edivaldo16/projeto_etl/blob/main/Desenvolvimento/Validação/Validacao_3.ipynb)
+* [Validando a Extração de Dados - Parte 4](https://github.com/Edivaldo16/projeto_etl/blob/main/Desenvolvimento/Validação/Validacao_4.ipynb)
