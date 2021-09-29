@@ -25,3 +25,9 @@ Realização de tratamento de dados do CENIPA (Centro de Investigação e Preven
 * [Limpeza dos Dados - Parte 1](https://github.com/Edivaldo16/projeto_etl/blob/main/Desenvolvimento/Limpeza/Limpeza_1.ipynb)
 * [Limpeza dos Dados - Parte 2](https://github.com/Edivaldo16/projeto_etl/blob/main/Desenvolvimento/Limpeza/Limpeza_2.ipynb)
 * [Limpeza dos Dados - Parte 3](https://github.com/Edivaldo16/projeto_etl/blob/main/Desenvolvimento/Limpeza/Limpeza_3.ipynb)
+
+## Créditos
+
+* Ao professor Fernando Tiosso que conduziu o curso `Fundamentos de ETL com Python` de forma incrível. 
+* Esse arquivo README não seria possível se eu não tivesse usado o github do jefhista. Segue link: 
+[https://github.com/jeffhsta/fundamentos_arquitetura](https://github.com/jeffhsta/fundamentos_arquitetura).
